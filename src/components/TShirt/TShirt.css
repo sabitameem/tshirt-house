@@ -1,0 +1,10 @@
+.tShirt{
+    border: 1px solid lightblue;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.tShirt img{
+    height: 250px;
+}
+
